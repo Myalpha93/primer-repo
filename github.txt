@@ -1,0 +1,9 @@
+ls es un comando para mostrar todos los archivos y carpetas dentro de un directorio
+cd > change directory
+clear > para limpiar la pantalla
+d directorio
+- un archivo
+mkdir es para crear carpetas
+
+moverte adentro de la carpeta: $ cd primer-repo/
+
